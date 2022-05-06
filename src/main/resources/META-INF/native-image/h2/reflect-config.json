@@ -1,0 +1,17 @@
+[
+  {
+    "name": "org.h2.server.TcpServer",
+    "queryAllDeclaredConstructors": true,
+    "queryAllPublicConstructors": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllPublicMethods": true,
+    "allDeclaredClasses": true,
+    "allPublicClasses": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]
